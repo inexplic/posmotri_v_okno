@@ -20,7 +20,6 @@ html {
 
 .page {
   inline-size: 1200px;
-  height: 800px;
   block-size: 100%;
   margin: auto;
   color: #fff;
@@ -52,7 +51,6 @@ ol {
 
 .content {
   margin: auto;
-  height: 100%;
   padding: 133px 30px;
   display: flex;
   justify-content: space-between;
