@@ -20,7 +20,7 @@ html {
 
 .page {
   inline-size: 1200px;
-  min-height: 800px;
+  height: 800px;
   block-size: 100%;
   margin: auto;
   color: #fff;
@@ -210,7 +210,7 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox::before {
   font-weight: 700;
   font-size: 75px;
   text-transform: uppercase;
-  line-height: 0.94;
+  line-height: 0.93;
   padding-bottom: 26px;
 }
 
